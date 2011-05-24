@@ -1,0 +1,11 @@
+[user]
+	name = adam
+	email = adam@crowdflower.com
+[github]
+	user = abeles
+	token = 535d97598a0de5dd97998933d5c29213
+[help]
+	format = web
+[core]
+	autocrlf = input
+		editor = mate -w
